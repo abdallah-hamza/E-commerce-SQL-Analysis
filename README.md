@@ -10,7 +10,6 @@ Database Tables
 - Customers
 - Orders
 - Products
-- OrderDetails
 
 Key Analysis
 - Top 5 Customers
